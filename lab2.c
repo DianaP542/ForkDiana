@@ -13,6 +13,7 @@ int main(){
 
     i=function(a);
 	printf("%d", i);
+	printf("pwp");
 	return 0;
 }
 
